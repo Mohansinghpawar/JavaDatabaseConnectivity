@@ -14,7 +14,7 @@ public class JdbcInsertFileOne {
         String user = "SYSTEM";
         String password = "root";
  
-        String filePath = "D:/Photos/Tom.png";
+        String filePath = "D:/Photos/Gru.png";
  
         try {
             Connection conn = DriverManager.getConnection(url, user, password);
